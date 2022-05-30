@@ -24,6 +24,7 @@ https://docs.microsoft.com/ja-JP/windows-hardware/get-started/adk-install
 https://docs.microsoft.com/ja-jp/windows-hardware/customize/desktop/unattend/
 
 isoファイルからbootable USBメモリ作成  
+https://rufus.ie/en/
 
 ## 使用方法
 
